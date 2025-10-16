@@ -12,3 +12,9 @@ This repo includes 8 Python designs principle to write better Python production 
 - expose behaviour, not data
 - use properties/getters for controlled access
 - abstract away complexity
+
+3. Loose Coupling & Modularity
+- use interfaces / abstract base classes
+- inject dependencies
+- components should be swappable
+- minimize inter-module dependencies
