@@ -18,3 +18,9 @@ This repo includes 8 Python designs principle to write better Python production 
 - inject dependencies
 - components should be swappable
 - minimize inter-module dependencies
+
+4. Reusability & Extensibility
+- Using composition over inheritance
+- strategy pattern for variation
+- plugin architectures
+- don't hardcode behaviour
